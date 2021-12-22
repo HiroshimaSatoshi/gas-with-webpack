@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "lib": ["es2019"],
+    "rootDir": "./",
+    "baseUrl": "./",
+    "paths": {},
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "strictBindCallApply": true,
+    "strictPropertyInitialization": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+    "experimentalDecorators": true,
+    "esModuleInterop": true
+  },
+  "exclude": ["dist", "node_modules"]
+}
